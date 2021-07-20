@@ -1,0 +1,10 @@
+Rôle	                Nom d'utilisateur	    Mot de passe
+Super-administrateur	superadmin@hms.com	    12345
+Administrateur	        admin@hms.com	        12345
+Docteur	                docteur@hms.com	        12345
+Patient	                patient@hms.com	        12345
+Infirmière	            nurse@hms.com	        12345
+Pharmacien	            pharmacien@hms.com	    12345
+Comptable	            comptable@hms.com	    12345
+Laboratoire	            laboratorist@hms.com	12345
+Réceptionniste	        réceptionniste@hms.com	12345
